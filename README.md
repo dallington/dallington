@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Dallington
+
+## How, you doing Dev ? 👋
+
+Sou um Front-end Developer :computer:
+
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dallington/)]
+| 
+[![Gmail Badge](https://img.shields.io/badge/-pedrohmartinss@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dallington.augusto@gmail.com)](mailto:pedrohmartinss@hotmail.com)
+
