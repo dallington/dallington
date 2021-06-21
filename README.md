@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Sou um Front-end Developer :computer:
 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dallington/)]
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Dallington Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dallington/)]
 | 
-[![Gmail Badge](https://img.shields.io/badge/-pedrohmartinss@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dallington.augusto@gmail.com)](mailto:pedrohmartinss@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dallington.augusto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dallington.augusto@gmail.com)](mailto:pedrohmartinss@hotmail.com)
 
