@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Sou um Front-end Developer :computer:
  
- ![Linkedin Badge](https://img.shields.io/badge/-Dallington&nbsp;Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dallington/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dallington&nbsp;Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dallington/)](https://www.linkedin.com/in/dallington/)
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/-dallington.augusto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dallington.augusto@gmail.com)](mailto:dallington.augusto@gmail.com)
 
